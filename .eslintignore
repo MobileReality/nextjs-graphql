@@ -1,0 +1,9 @@
+.eslintrc.js
+setupTests.js
+api-types.ts
+next.config.js
+@types/
+__mocks__/
+sentry.client.config.js
+sentry.edge.config.js
+sentry.server.config.js
